@@ -1,0 +1,5 @@
+# Ignoring Node.js modules
+node_modules/
+
+# Ignoring docs
+docs/
